@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "187920731690",
+    "firebase_url": "https://flesh-chat-459d9.firebaseio.com",
+    "project_id": "flesh-chat-459d9",
+    "storage_bucket": "flesh-chat-459d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187920731690:android:87b8d9b336cb02fc547d53",
+        "android_client_info": {
+          "package_name": "co.t_studio.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187920731690-u7sh15sukubbanth0m0rightocbf6imi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eEq77RpMyrjNQWXqdZQWdiXbYEPWiBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187920731690-u7sh15sukubbanth0m0rightocbf6imi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187920731690-barlsnl0fsq08lnge87rnvk8sbn702iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tkcode.Flash-Chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187920731690:android:724a188b9296aa26547d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187920731690-s2630qspuumlqa2ire82tc7kcipofals.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "5005415eaae6f8b3bef226c7c52e4a0f6489747c"
+          }
+        },
+        {
+          "client_id": "187920731690-u7sh15sukubbanth0m0rightocbf6imi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eEq77RpMyrjNQWXqdZQWdiXbYEPWiBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187920731690-u7sh15sukubbanth0m0rightocbf6imi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187920731690-barlsnl0fsq08lnge87rnvk8sbn702iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tkcode.Flash-Chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

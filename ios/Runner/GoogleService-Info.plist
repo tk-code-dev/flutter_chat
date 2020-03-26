@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>187920731690-d5igerov5tu5cgg4ft6veupt8jo4n50d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.187920731690-d5igerov5tu5cgg4ft6veupt8jo4n50d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>187920731690-s2630qspuumlqa2ire82tc7kcipofals.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuOeGFF5636G3gJoeHD_nw8Fj3frYe_Dw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>187920731690</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.t-studio.flashChat</string>
+	<key>PROJECT_ID</key>
+	<string>flesh-chat-459d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flesh-chat-459d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:187920731690:ios:b02c57757d857596547d53</string>
+	<key>DATABASE_URL</key>
+	<string>https://flesh-chat-459d9.firebaseio.com</string>
+</dict>
+</plist>
